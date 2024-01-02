@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>COSL Workover and Completion - Iraq Project</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            background-color: #f4f4f4;
+            color: #333;
+            margin: 0;
+            padding: 0;
+        }
+
+        header {
+            background-color: #333;
+            color: #fff;
+            text-align: center;
+            padding: 1em;
+        }
+
+        section {
+            max-width: 800px;
+            margin: 2em auto;
+            padding: 1em;
+            background-color: #fff;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+
+        h1 {
+            color: #333;
+        }
+
+        p {
+            line-height: 1.6;
+        }
+    </style>
+</head>
+
+<body>
+
+    <header>
+        <h1>COSL Workover and Completion</h1>
+    </header>
+
+    <section>
+        <h2>About the Project</h2>
+        <p>Welcome to the official webpage for the COSL Workover and Completion Project in Iraq. We are dedicated to delivering high-quality workover and completion services to meet the unique challenges of the Iraqi oil and gas industry.</p>
+
+        <h2>About COSL</h2>
+        <p>COSL (China Oilfield Services Limited) is a leading international offshore oilfield service provider. Our commitment to excellence and innovation has positioned us as a trusted partner in the energy sector worldwide.</p>
+
+        <h2>Contact Information</h2>
+        <p>For inquiries or more information about the COSL Workover and Completion Project in Iraq, please contact us at:</p>
+        <p>Email: info@cosl-iraq.com</p>
+        <p>Phone: +123 456 7890</p>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 COSL Workover and Completion - Iraq Project</p>
+    </footer>
+
+</body>
+
+</html>
